@@ -1,0 +1,19 @@
+All colored 'Actual Image', Opacity: 12, Scale: 350
+- Bug - X: , Y: 
+- Dark - X: 644, Y: 1829
+- Dragon - X: 646, Y: 1825
+- Electric - X: , Y: 
+- Fairy - X: , Y: 
+- Fighting - X: , Y: 
+- Fire - X: 648, Y: 1835
+- Flying - X: , Y: 
+- Ghost - X: , Y: 
+- Grass - X: , Y: 
+- Ground - X: 645, Y: 1853
+- Ice - X: 632, Y: 1830
+- Normal - X: , Y: 
+- Poison - X: 654, Y: 1804
+- Psychic - X: 616, Y: 1812
+- Rock - X: , Y: 
+- Steel - X: , Y: 
+- Water - X: 616, Y: 1812

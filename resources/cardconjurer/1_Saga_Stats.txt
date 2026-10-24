@@ -1,0 +1,14 @@
+Land's Origin
+I: 495
+II: 412
+III: 520
+
+Ocean's Origin
+I: 575
+II: 412
+III: 418
+
+The Great Balance
+I: 642
+II: 375
+III: 390
