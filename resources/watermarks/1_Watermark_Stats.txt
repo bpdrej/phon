@@ -1,19 +1,19 @@
-All colored 'Actual Image', Opacity: 12, Scale: 350
-- Bug - X: , Y: 
-- Dark - X: 644, Y: 1829
+All colored 'Actual Image', Opacity: 10, Scale: 350
+- Bug - X: 644, Y: 1816
+- Dark - X: 650, Y: 1835
 - Dragon - X: 646, Y: 1825
-- Electric - X: , Y: 
-- Fairy - X: , Y: 
-- Fighting - X: , Y: 
+- Electric - X: 636, Y: 1816
+- Fairy - X: 650, Y: 1806
+- Fighting - X: 618, Y: 1816
 - Fire - X: 648, Y: 1835
-- Flying - X: , Y: 
-- Ghost - X: , Y: 
-- Grass - X: , Y: 
+- Flying - X: 636, Y: 1816
+- Ghost - X: 636, Y: 1820
+- Grass - X: 650, Y: 1812
 - Ground - X: 645, Y: 1853
 - Ice - X: 632, Y: 1830
-- Normal - X: , Y: 
+- Normal - X: 636, Y: 1816
 - Poison - X: 654, Y: 1804
 - Psychic - X: 616, Y: 1812
-- Rock - X: , Y: 
-- Steel - X: , Y: 
+- Rock - X: 638, Y: 1820
+- Steel - X: 640, Y: 1816
 - Water - X: 616, Y: 1812
